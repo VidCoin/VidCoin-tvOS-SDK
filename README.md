@@ -4,6 +4,9 @@ VidCoin-tvOS-SDK
 
 [Download the latest release (SDK + Documentation)](https://github.com/VidCoin/VidCoin-tvOS-SDK/releases/download/v1.0.0/VidCoin-tvOS-SDK.zip)
 
+##Preview
+![VidCoin Mobile Overlay](https://googledrive.com/host/0B6eY1Jl67IWrMFhSUE9qRkFYS0U "VidCoin Mobile Overlay")
+
 ##Additional Informations
 
 ###Supported tvOS versions
