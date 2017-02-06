@@ -38,7 +38,7 @@ Download and open the zip file from Github: [https://github.com/VidCoin/VidCoin-
 ### Step 2: Adding the framework to the project
 Navigate to *VidCoin-tvOS-SDK-version/Framework/* and add the .framework and the .bundle to the project:
 
-![Image1](https://d3rud9259azp35.cloudfront.net/documentation/Vidcoin-tvOS-1.png)
+![Image1](https://documentation.vidcoin.com/images/Vidcoin-tvOS-1.png)
 
 *Note: both are necessary for presenting videos. If you do not add the .bundle file, you may be able to build but your app will crash when trying to show an ad.*
 
@@ -199,7 +199,7 @@ This method is called when the server answers after the framework tried to valid
 ### Step 9: Submitting to the AppStore
 When you submit your app for Apple’s approval, you will be asked if your app uses the Advertising Identifier. Vidcoin’s framework does use this identifier, in order to serve advertisements within your app:
 
-![Image3](https://d3rud9259azp35.cloudfront.net/documentation/Vidcoin-tvOS-2.png)
+![Image2](https://documentation.vidcoin.com/images/Vidcoin-tvOS-2.png)
 
 ## Advice for integration
 The integration of the Vidcoin solution must not deteriorate the user experience.
